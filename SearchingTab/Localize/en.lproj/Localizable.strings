@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SearchingTab
+
+  Created by YOUNGHEE on 2020/09/10.
+  Copyright © 2020 kakaobank. All rights reserved.
+*/
+
+"version" = "버전 ";
+"count_evaluation" = "개의 평가";
+"recently_search_keyword" = "최근 검색어";
+"searchbar_default_msg" = "게임, 앱, 스토리 등";
+
+"before_hour" = "시간 전";
+"before_day" = "일 전";
+
+"ten_thousand" = "만";
+"thousand" = "천";

@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "버전 기록"; ObjectID = "1Q1-4L-g2G"; */
+"1Q1-4L-g2G.text" = "버전 기록";
+
+/* Class = "UILabel"; text = "4+"; ObjectID = "4kv-Et-ma1"; */
+"4kv-Et-ma1.text" = "4+";
+
+/* Class = "UILabel"; text = "더보기"; ObjectID = "7gh-0Z-LLJ"; */
+"7gh-0Z-LLJ.text" = "더보기";
+
+/* Class = "UILabel"; text = "#3"; ObjectID = "8Oo-89-4M8"; */
+"8Oo-89-4M8.text" = "#3";
+
+/* Class = "UILabel"; text = "새로운 기능"; ObjectID = "FlW-tf-o0m"; */
+"FlW-tf-o0m.text" = "새로운 기능";
+
+/* Class = "UILabel"; text = "3.5천개의 평가"; ObjectID = "GRv-Rn-WX0"; */
+"GRv-Rn-WX0.text" = "3.5천개의 평가";
+
+/* Class = "UILabel"; text = "ㅇㅇㅇ"; ObjectID = "GYf-J5-kox"; */
+"GYf-J5-kox.text" = "ㅇㅇㅇ";
+
+/* Class = "UILabel"; text = "더보기"; ObjectID = "H7X-YV-Slg"; */
+"H7X-YV-Slg.text" = "더보기";
+
+/* Class = "UILabel"; text = "미리보기"; ObjectID = "I9M-Xu-8IM"; */
+"I9M-Xu-8IM.text" = "미리보기";
+
+/* Class = "UINavigationItem"; title = "검색"; ObjectID = "IW4-35-Kfv"; */
+"IW4-35-Kfv.title" = "검색";
+
+/* Class = "UITabBarItem"; title = "검색"; ObjectID = "J9K-9q-gl5"; */
+"J9K-9q-gl5.title" = "검색";
+
+/* Class = "UILabel"; text = "3.5천"; ObjectID = "Kgh-bM-FSK"; */
+"Kgh-bM-FSK.text" = "3.5천";
+
+/* Class = "UILabel"; text = "* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n"; ObjectID = "KpQ-Qi-2El"; */
+"KpQ-Qi-2El.text" = "* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n";
+
+/* Class = "UIButton"; normalTitle = "열기"; ObjectID = "Kub-7a-4wL"; */
+"Kub-7a-4wL.normalTitle" = "열기";
+
+/* Class = "UILabel"; text = "개발자"; ObjectID = "Og3-4x-d9V"; */
+"Og3-4x-d9V.text" = "개발자";
+
+/* Class = "UINavigationItem"; title = "목록"; ObjectID = "WRe-CB-s0f"; */
+"WRe-CB-s0f.title" = "목록";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cM9-Gg-Z7x"; */
+"cM9-Gg-Z7x.text" = "Label";
+
+/* Class = "UILabel"; text = "공인인증서 필요없는 모바일은행"; ObjectID = "ezE-mg-aHo"; */
+"ezE-mg-aHo.text" = "공인인증서 필요없는 모바일은행";
+
+/* Class = "UILabel"; text = "금융"; ObjectID = "gdA-hp-UJj"; */
+"gdA-hp-UJj.text" = "금융";
+
+/* Class = "UILabel"; text = "Kakaobank"; ObjectID = "jYX-X7-kUs"; */
+"jYX-X7-kUs.text" = "Kakaobank";
+
+/* Class = "UILabel"; text = "Kakaobank"; ObjectID = "nS4-uw-sae"; */
+"nS4-uw-sae.text" = "Kakaobank";
+
+/* Class = "UILabel"; text = "iPhone"; ObjectID = "noC-eV-3OJ"; */
+"noC-eV-3OJ.text" = "iPhone";
+
+/* Class = "UILabel"; text = "연령"; ObjectID = "oWR-si-xYD"; */
+"oWR-si-xYD.text" = "연령";
+
+/* Class = "UILabel"; text = "버전 1.8.0"; ObjectID = "okX-tb-JkS"; */
+"okX-tb-JkS.text" = "버전 1.8.0";
+
+/* Class = "UILabel"; text = "3.7"; ObjectID = "sLI-ZO-Ids"; */
+"sLI-ZO-Ids.text" = "3.7";
+
+/* Class = "UIButton"; normalTitle = "열기"; ObjectID = "taW-bl-dng"; */
+"taW-bl-dng.normalTitle" = "열기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tbf-uM-Cy7"; */
+"tbf-uM-Cy7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "정보"; ObjectID = "v4y-r4-KE3"; */
+"v4y-r4-KE3.text" = "정보";
+
+/* Class = "UILabel"; text = "9시간 전"; ObjectID = "vlv-Mu-Jxd"; */
+"vlv-Mu-Jxd.text" = "9시간 전";
+
+/* Class = "UILabel"; text = "* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n"; ObjectID = "xgE-xZ-lrJ"; */
+"xgE-xZ-lrJ.text" = "* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n* 귀여운 카카오프렌즈 캐릭터와 함께 1천원으로 시작하는 26주적금 서비스 출시\\n";
+
+/* Class = "UILabel"; text = "카카오뱅크 - 같지만 다른은행"; ObjectID = "yft-ZG-e0c"; */
+"yft-ZG-e0c.text" = "카카오뱅크 - 같지만 다른은행";
